@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- icons without padding -->
 
-[1.2]: https://img.icons8.com/material-sharp/24/000000/instagram-new.png (twitter icon without padding)
+[1.2]: https://icons8.com/icon/85342/instagram (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
