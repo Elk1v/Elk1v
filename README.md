@@ -1,6 +1,7 @@
 ## Hello there 👋 
-My name is Matey Ilkiv and I'm a front-end developer from the Ukraine, living in Avellino. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+My name is Matey Ilkiv and I'm a front-end developer from the Ukraine, living in Avellino. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+
 <!--
 **Elk1v/Elk1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://simpleicons.org/icons/instagram.svg (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
