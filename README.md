@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [1.2]: https://img.icons8.com/material-sharp/24/000000/instagram-new.png (Instagram)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://img.icons8.com/ios-filled/48/000000/linkedin.png (LinkedIn icon without padding)
+[3.2]: https://img.icons8.com/ios-filled/24/000000/linkedin.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
