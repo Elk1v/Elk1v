@@ -1,8 +1,8 @@
 ## Hello there 👋 
 My name is Matey Ilkiv and I'm a react front-end developer from the Ukraine, living in Avellino, Italy. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-🌱 I’m currently learning GraphQL and Next.js
-🔭 I’m currently working on Netflix clone project.
+🌱 I’m currently learning GraphQL and Next.js.
+- 🔭 I’m currently working on Netflix clone project.
 
 <!--
 **Elk1v/Elk1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
