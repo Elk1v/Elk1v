@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <!-- links to your social media accounts -->
 
-[1]: https://instagram.com/
+[1]: https://www.instagram.com/_elkiv/
 [2]: https://github.com/
 [3]: https://www.linkedin.com/
